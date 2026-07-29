@@ -1,8 +1,8 @@
 # 🍔 Food Ordering App
 
 A modern React-based food ordering application that allows users to browse menu items, search for food, filter by category, add items to a cart, and manage orders through an intuitive user interface.
-##live demo
-link : https://oodie.netlify.app/menu
+live demo
+link : https://oodie.netlify.app/
 ## 🚀 Overview
 
 The Food Ordering App was developed to simulate a real-world online food ordering experience. Users can explore food items, search for their favorite meals, filter by categories, and manage their cart seamlessly.
